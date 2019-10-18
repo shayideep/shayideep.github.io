@@ -1,2 +1,1 @@
-# shayideep.github.io
-Personal Website 
+# maddineniakhil.github.io
